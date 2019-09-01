@@ -1,1 +1,2 @@
 This is initial chapter 2 file.
+This file is updated on master branch.
